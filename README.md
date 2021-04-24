@@ -1,3 +1,3 @@
 # HTML-Canvas-testing
 
-Testing Canvas
+Using the Canvas options.
